@@ -1,5 +1,5 @@
 Es importante mencionar que este proyecto se ha realizado sin conocimientos básicos de la programción.
-El objetivo proncipal del pryecto era el correcto funcionamiento.
+El objetivo proncipal era el correcto funcionamiento, para cambiar aspectos de este en el examen.
 
 Se ha dejado un enuncaido con el funcionamiento pero aquí se muestra un breve resumen:
 
